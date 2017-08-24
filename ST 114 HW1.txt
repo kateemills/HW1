@@ -1,0 +1,17 @@
+Homework 1
+
+Due: 8/25/2017 @ 5pm
+
+Name: Kate Mills
+
+Instructions: Please edit this file by typing answers below. You will then "push" the file onto	your github.ncsu.edu repository. We will go over how to do this in the first lab.
+Question 1: Why did you decide to major in statistics?
+	I took AP stat in high school and really enjoyed it. I enjoy math and need to learn more about computer programming.
+Question 2: What do you hope to do once you graduate?
+	I hope to go into a career using stat to help save the environment and help find new ways to conserve our natural resources. I would love to be able to do this at SAS.
+Question 3: What do you hope to learn in the class?
+	I am going to work hard to learn the basics of computer programming and how it can be used to help me compute statistics on my data.
+Question 4: Do you have any concerns about this class that you'd like to share?
+	I do not have a very extensive background in computer programming so this class might be hard for me to get the hang of in the begining.
+Question 5: Tell us about yourself. Just a sentence or two is fine.
+	I love nature and dogs. I’m from Raleigh, I’ve played soccer all my life and I’m super excited to be attending state this fall!
